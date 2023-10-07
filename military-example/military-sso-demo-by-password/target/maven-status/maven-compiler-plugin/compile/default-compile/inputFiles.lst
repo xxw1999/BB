@@ -1,0 +1,17 @@
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\client\OAuth2Client.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\client\dto\oauth2\OAuth2AccessTokenRespDTO.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\client\UserClient.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\SSODemoApplication.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\framework\core\filter\TokenAuthenticationFilter.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\client\dto\user\UserUpdateReqDTO.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\framework\core\handler\AuthenticationEntryPointImpl.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\framework\core\util\SecurityUtils.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\framework\core\util\ServletUtils.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\framework\core\LoginUser.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\client\dto\CommonResult.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\controller\UserController.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\framework\core\handler\AccessDeniedHandlerImpl.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\framework\config\SecurityConfiguration.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\controller\AuthController.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\client\dto\oauth2\OAuth2CheckTokenRespDTO.java
+C:\workSpace\ogsp\军工版\ogsp-mil-server\military-example\military-sso-demo-by-password\src\main\java\com\ongineer\ogsp\ssodemo\client\dto\user\UserInfoRespDTO.java
