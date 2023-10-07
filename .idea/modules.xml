@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/military-example/military-example.iml" filepath="$PROJECT_DIR$/military-example/military-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/military-example/military-sso-demo-by-code/military-sso-demo-by-code.iml" filepath="$PROJECT_DIR$/military-example/military-sso-demo-by-code/military-sso-demo-by-code.iml" />
+    </modules>
+  </component>
+</project>
