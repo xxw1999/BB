@@ -16,7 +16,7 @@
     </modules>
 
     <name>${project.artifactId}</name>
-    <description>提供各种示例，例如说：SSO 单点登录</description>
+    <description>提供各种示例，例如说：SSO 单点登录    修改111111第三季度</description>
     <url>https://github.com/YunaiV/ruoyi-vue-pro</url>
 
 </project>
